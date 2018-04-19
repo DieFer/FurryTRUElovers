@@ -16,6 +16,6 @@ public class ProyectoFurroXYZ {
      */
    public static void main(String[] args) {
          System.out.println("Vengalidercrackmastodontevikingoheroeliderlincepecholoboespaldaplateadacampeonfenomenochampiontiranosaurio" );
-        System.out.println("FIERA crack" );
+        System.out.println("FIERA" );
     }
 }
