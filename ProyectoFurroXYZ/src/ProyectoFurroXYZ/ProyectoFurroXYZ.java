@@ -19,6 +19,8 @@ public class ProyectoFurroXYZ {
         System.out.println("FIERA" );
         // System.out.println("v2" );
          System.out.println("v3");
-         System.out.println("Stalin fue un error";
+         System.out.println("PIPO ES UN PERRO");
+         System.out.println("No nos juzgen todo era una prank xD");
+         
     }
 }
